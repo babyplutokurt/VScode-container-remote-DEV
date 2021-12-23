@@ -14,8 +14,11 @@ ALL [] in this file: 需要自行更改
    docker context create [ContextName_XXX] --docker "host=ssh://username@hostname"
    
   其他命令： docker context rm [name]
+             
              docker context use [name]
+             
              docker context ls 显示所有context
+             
 5. 新建文件夹，在该文件夹中新建.vscode文件夹，新建文件./vscode/settings.json, 插入配置语句："docker.host": "ssh://[用户名]@[主机IP]"
 
 6. 使用VSCode打开文件夹
