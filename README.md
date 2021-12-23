@@ -26,6 +26,7 @@ ALL [] in this file: 需要自行更改
 7. 打开VSCode远程资源管理器，选择Containers，等待显示出远程主机上运行的容器
 
 8. 右键点击容器，选择Attach to Container
+
  ![image](https://user-images.githubusercontent.com/67892316/147260094-1a489cc8-39a4-44d8-8d03-dd9286335140.png)
 
 
